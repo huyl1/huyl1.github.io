@@ -5,6 +5,6 @@ title: "About"
 
 My name is Huy Le.
 
-## Features
+#### Credit
 
-This portfolio website forked from [AstroPaper](https://github.com/satnaing/astro-paper)
+This portfolio website is forked from [AstroPaper](https://github.com/satnaing/astro-paper)
