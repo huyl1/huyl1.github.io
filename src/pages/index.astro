@@ -24,19 +24,18 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <main id="main-content">
     <section id="hero">
       <h1>Hello! Xin Chào!</h1>
-      <p>
+      <img src="/assets/huyle.jpg" alt="Huy Le" class="rounded-full w-1/2" />
+      <p class="p-4 rounded-lg shadow-xl">
         My name is Huy and I'm a software engineer based in Tucson, Arizona. I'm
         a graduate from the University of Arizona with a degree in Computer
         Science. I'm passionate about machine learning and software development.
-      </p>
-      <p>
-        Check out my
+        <br /><br />Check out my
         <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
           href="/posts/"
         >
           Projects
-        </LinkButton>.
+        </LinkButton>. ⬇️⬇️⬇️⬇️
       </p>
       {
         // only display if at least one social link is enabled
