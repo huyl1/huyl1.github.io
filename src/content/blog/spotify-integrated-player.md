@@ -16,7 +16,7 @@ description: Music player with spotify intergration. App built using JavaFX unde
 
 ## Features
 
-The music player is built from the ground up using the MVC architecture, with JavaFX for the GUI and Java for the backend. To ensure responsiveness, the application runs on multiple threads. It utilizes the Spotify API to search for and download songs, while also being able to play locally stored tracks. Here are a list of features the app supports:
+The music player is built from the ground up using the MVC architecture, with JavaFX for the GUI and Java for the backend. To ensure responsiveness, the application runs on multiple threads. It utilizes the Spotify API to search and download songs, while also being able to play locally stored tracks. Here are a list of features the app supports:
 
 ### Playback
 
