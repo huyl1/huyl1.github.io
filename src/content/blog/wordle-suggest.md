@@ -1,6 +1,6 @@
 ---
 author: Huy Le
-pubDatetime: 2022-07-28T12:58:49.563Z
+pubDatetime: 2022-07-28T12:48:39.563Z
 modDatetime:
 title: wordleSuggest
 slug: wordle-suggest-js
@@ -21,4 +21,4 @@ seemlessly integrated into the game. Published on the [chrome web store](https:/
 This extension longer works due to a lack of updates.
 
 - Fast autocomplete, based on the prefix typed.
-- The user can cycle through remaining autocomplete options using TAB
+- Cycle through autocomplete options using TAB
