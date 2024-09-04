@@ -3,7 +3,7 @@ author: Huy Le
 pubDatetime: 2022-05-15T20:58:49.563Z
 modDatetime:
 title: Spotify Music Player
-slug: spotify-music-player-java
+slug: music
 featured: true
 draft: false
 tags:

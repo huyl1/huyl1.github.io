@@ -3,7 +3,7 @@ author: Huy Le
 pubDatetime: 2022-07-28T12:48:39.563Z
 modDatetime:
 title: wordleSuggest
-slug: wordle-suggest-js
+slug: wordle
 featured: true
 draft: false
 tags:

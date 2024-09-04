@@ -3,7 +3,7 @@ author: Huy Le
 pubDatetime: 2023-04-28T12:58:49.563Z
 modDatetime:
 title: Watson QA system
-slug: watson-qa-java
+slug: watson
 featured: true
 draft: false
 tags:
