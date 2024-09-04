@@ -12,6 +12,10 @@ tags:
 description: Music player with spotify intergration. App built using JavaFX under MVC architecture.
 ---
 
+#### Code: Github (Private).
+
+#### Deployment: Not deployed.
+
 ![app display](@assets/blog/music-player/overview.jpg)
 
 ## Features

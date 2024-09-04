@@ -12,6 +12,10 @@ tags:
 description: Autocomplete chrome extension for the game Wordle on New York Times. Built using Javascript.
 ---
 
+#### Code: [github](https://github.com/huyl1/wordleSuggest)
+
+#### Deployment: Not deployed.
+
 ![wordle suggest in action](@assets/blog/wordle-suggest-js/demo.gif)
 
 ## Features
@@ -21,4 +25,7 @@ seemlessly integrated into the game. Published on the [chrome web store](https:/
 This extension longer works due to a lack of updates.
 
 - Fast autocomplete, based on the prefix typed.
-- Cycle through autocomplete options using TAB
+- Words stored in memory, in a "trie" allowing for efficient lookups.
+- Cycle through autocomplete options using TAB.
+- Directly hijacks and modifies the DOM, integrates seemlessly on the official website.
+- MVC structured.
