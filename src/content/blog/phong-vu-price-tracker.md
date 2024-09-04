@@ -25,12 +25,14 @@ Since August 2024, my website has provided reliable price tracking.
 This project showcases the culmination of my web development skills, and I frequently update the
 website as I learn new technologies and techniques.
 
+![screenshot](@assets/blog/phong-vu-price-tracker/ss.jpg)
+
 ## Technologies:
 
 ### Front-end
 
 The frontend is written in React and powered by Vite. React-Query is used for state management and caching.
-Communicates with the backend via Axios.
+Communicates with the backend via Axios. Styling is done using tailwindcss.
 
 ### Back-end
 
