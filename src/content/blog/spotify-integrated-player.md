@@ -1,6 +1,6 @@
 ---
 author: Huy Le
-pubDatetime: 2022-05-15T20:58:49.563Z
+pubDatetime: 2023-05-15T20:58:49.563Z
 modDatetime:
 title: Spotify Music Player
 slug: music
@@ -12,7 +12,7 @@ tags:
 description: Music player with spotify intergration. App built using JavaFX under MVC architecture.
 ---
 
-#### Code: Github (Private).
+#### Code: Github (Private). (4 people project)
 
 #### Deployment: Not deployed.
 

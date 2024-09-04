@@ -15,7 +15,7 @@ tags:
 description: Full-stack website to track more than 12,000 products on phongvu.vn
 ---
 
-#### Code: Github (private).
+#### Code: [Github](https://github.com/huyl1/PhongVuPriceTracker)
 
 #### Deployment: [live](https://phongvupricetracker-frontend.onrender.com/)
 
@@ -39,4 +39,4 @@ Communicates with the backend via Axios. Styling is done using tailwindcss.
 The backend is written using Express. Product information is stored on MongoDB Atlas, accessed via
 Mongoose (ODM).
 
-Latest product info and pricing is fetched daily using Scapy (Python) running on Google Cloud Platform VM.
+Latest product info and pricing is fetched daily using Scapy (Python) bot running on Google Cloud Platform VM.

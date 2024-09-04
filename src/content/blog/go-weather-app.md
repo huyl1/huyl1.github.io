@@ -1,6 +1,6 @@
 ---
 author: Huy Le
-pubDatetime: 2024-06-03T17:41:32.112Z
+pubDatetime: 2024-01-03T10:01:32.112Z
 modDatetime:
 title: Go Weather App
 slug: weather
@@ -12,7 +12,7 @@ tags:
 description: Go weather app providing real-time weather updates.
 ---
 
-#### Code: [Github](https://github.com/huyl1/go-weather-app).
+#### Code: [Github](https://github.com/huyl1/go-weather-app). (2 people project)
 
 #### Deployment: Not deployed.
 

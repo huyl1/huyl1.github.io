@@ -36,3 +36,7 @@ Output: "Hanoi"
 ## Features
 
 - Quickly and accurately retrieve a relevant article given a query from thousands of wikipedia articles.
+
+## Results
+
+- The best pipeline was able to achieve an accuracy of 36% on the test set. To further improve on this result, I will introduce more query expansion techniques and possibly use a more advanced model like BERT for the QA system.
