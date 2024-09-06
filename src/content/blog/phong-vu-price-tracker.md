@@ -39,4 +39,5 @@ Communicates with the backend via **Axios**. Styling is done using **tailwindcss
 The backend is written using Express. Product information is stored on **MongoDB Atlas**, accessed via
 **Mongoose (ODM)**.
 
-Latest product info and pricing is fetched daily using **Scapy (Python)** bot running on **Google Cloud Platform** VM.
+Latest product info and pricing is fetched daily using **Scapy (Python)** bot running on **Google Cloud Platform** VM. Scheduling
+done using **Cron**.
