@@ -10,7 +10,3 @@ Science. I'm passionate about machine learning and backend development.
 #### hobbies: outdoor adventure, photography, league of legends
 
 ![outdoor3](@assets/blog/about-me/1.jpg)
-
-#### Credit
-
-This portfolio website is forked from [AstroPaper](https://github.com/satnaing/astro-paper)
